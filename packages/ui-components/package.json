@@ -65,7 +65,7 @@
     "typescript": "catalog:"
   },
   "devDependencies": {
-    "@eslint-react/eslint-plugin": "~3.0.0",
+    "@eslint-react/eslint-plugin": "~4.2.3",
     "@orama/core": "^1.2.19",
     "@storybook/addon-styling-webpack": "~3.0.1",
     "@storybook/addon-themes": "~10.3.3",
